@@ -1,7 +1,7 @@
 #for all variables
 MONGODB_HOST: mongodb-dev.nikitha.fun
 REDIS_HOST: redis-dev.nikitha.fun
-RABBITMQ_HOST: RABBITMQ-dev.nikitha.fun
+RABBITMQ_HOST: rabbitmq-dev.nikitha.fun
 MYSQL_HOST: mysql-dev.nikitha.fun
 CATALOGUE_HOST: catalogue.backend-alb-dev.nikitha.fun
 USER_HOST: user.backend-alb-dev.nikitha.fun
